@@ -1,27 +1,29 @@
-#Referências de Python
+#Referências
 
-##[Como Pensar Como um Cientista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
+##Python
+
+###[Como Pensar Como um Cientista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
     https://panda.ime.usp.br/pensepy/static/pensepy/index.html
     
-##[Python para Zumbis](http://pingmind.com.br/classes/142/enroll)
+###[Python para Zumbis](http://pingmind.com.br/classes/142/enroll)
 
     http://pingmind.com.br/classes/142/enroll
 
-#Referêncisa de Django
+##Django
 
-##[Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
+###[Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
     https://tutorial.djangogirls.org/pt/
 
-##[Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
+###[Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
     https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/
 
-#Referências de GIT
+##GIT e Github
 
-##[Vídeos Rodrigo Branas](https://youtu.be/C18qzn7j4SM?list=PLqFZUD_ys9zf7C4sFV2QR0VYKuXlcmzPf)
+###[Vídeos Rodrigo Branas](https://youtu.be/C18qzn7j4SM?list=PLqFZUD_ys9zf7C4sFV2QR0VYKuXlcmzPf)
     https://youtu.be/C18qzn7j4SM?list=PLqFZUD_ys9zf7C4sFV2QR0VYKuXlcmzPf
 
-##[Git e Github para Iniciantes](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
+###[Git e Github para Iniciantes](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes)
     http://willianjusten.teachable.com/p/git-e-github-para-iniciantes
 
-##[Livro Pro Git](https://git-scm.com/book/pt-br/v2)
+###[Livro Pro Git](https://git-scm.com/book/pt-br/v2)
     https://git-scm.com/book/pt-br/v2
